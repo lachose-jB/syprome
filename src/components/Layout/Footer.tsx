@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 SYPROM. {t('footer.rights')}
+            © 2024 web-sec.fr. {t('footer.rights')}
           </p>
           <div className="flex space-x-6 mt-4 sm:mt-0">
             <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">
