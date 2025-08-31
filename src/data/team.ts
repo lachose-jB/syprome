@@ -20,6 +20,6 @@ export const teamMembers: TeamMember[] = [
     name: 'LOÏS',
     position: 'Responsable Formation',
     positionEn: 'Training Manager',
-    image: '/asset/img/file2.png'
+    image: '/assets/img/file2.png'
   }
 ];
